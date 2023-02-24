@@ -1,0 +1,147 @@
+body {
+ margin: 0;
+ text-align: center;
+ font-family: 'Merriweather Sans', sans-serif;
+ display:block
+}
+
+
+h1 {
+ padding-top: 30px;
+ margin: 50px auto 0 auto;
+ font-family: 'Sacramento', cursive;
+ font-size: 90px;
+ color: #66BFBF;
+ line-height: 2;
+ text-align: center;
+    
+}
+
+h2 {
+
+ font-family: 'Montserrat', sans-serif;
+ font-size: 24px;
+ color: #66BFBF;
+ font-weight: normal;
+ text-align: center;
+}
+
+h3 {
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #66BFBF;
+  font-weight: normal;
+  text-align: center;
+ 
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 4%;
+  border-width: 5px;
+  color:#59a6a6;
+}
+
+img {
+ overflow-clip-margin: content-box;
+ overflow: clip;
+}
+
+.icon {
+ border-radius: 50%;
+ padding-top: 40px;
+}
+
+.skillimg {
+ padding-top: 40px;
+ width: 150px;
+ float: left;
+ margin-right: 30px;
+ text-align: center;  
+}
+
+.skill-row {
+ margin: 100px auto 100px auto;
+ text-align: left;
+ line-height: 2;
+}
+
+.chillieimg {
+ width: 12%;
+ float: right;
+ margin-right: 30px;
+}
+
+.linkedin {
+  width: 30px;
+}
+
+.globe {
+  width: 30px;
+}
+
+div {
+ background-color: #e4f9f5;
+}
+
+.top-container {
+ background-color: #e4f9f5; 
+ position: relative;
+ padding-top: 50px;
+}
+
+.midlle-container { 
+ background-color: #e4f9f5;
+}
+
+  
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 10px;
+}
+
+.contact-me {
+}
+
+.codeskill {
+}
+
+
+.pro {
+text-decoration: underline;
+}
+
+.top-cloud {
+ position: absolute;
+ right: 300px;
+ top: 10px;
+}
+
+.bottom-cloud {
+ position: absolute;
+ left: 310px;
+ bottom: 300px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #faffff;
+  font-size: 16px;
+  background: #8bd9d9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #188585;
+  text-decoration: none;
+}
+
+.copyright {
+ font-size: small;
+ font-family: 'Montserrat', sans-serif;
+}
